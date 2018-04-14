@@ -2,46 +2,39 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-12 text-center">
-        <h2 class="section-heading text-uppercase">Clases del mes de Marzo</h2>
-        <h3 class="section-subheading text-muted">Clases correspondientes al mes de Marzo.</h3>
+        <h2 class="section-heading text-uppercase">Clases del mes de Abril</h2>
+        <h3 class="section-subheading text-muted">Clases correspondientes al mes de Abril.</h3>
       </div>
     </div>
     <div class="row">
       <div class="col-lg-12">
         <ul class="timeline">
-          <li>
-            <div class="timeline-image">
-              <img class="rounded-circle img-fluid" src="img/about/1.jpg" alt="">
-            </div>
-            <div class="timeline-panel">
-              <div class="timeline-heading">
-                <h4>Los Salmos hablan de Cristo</h4>
-                <h4 class="subheading">17 de marzo 2018</h4>
-              </div>
-              <div class="timeline-body">
-                <p class="text-muted">En esta lección, observaremos que algunas poesías de este libro retratan perfectamente la humanidad de Cristo al describir su sufrimiento y dolor. Sin embargo, el salmista también describe la gloria y el triunfo del Mesías</p>
-              </div>
-            </div>
-          </li>
+          {% for item in site.data.intermedios.clases.clases-del-mes %}
+          {% assign mod = forloop.index | modulo: 2 %}
+          {% if mod == 0 %}
           <li class="timeline-inverted">
+          {% else %}
+          <li>
+          {% endif %}
             <div class="timeline-image">
-              <img class="rounded-circle img-fluid" src="img/about/2.jpg" alt="">
+              <img class="rounded-circle img-fluid" src="{{ item.imagen }}" alt="">
             </div>
             <div class="timeline-panel">
               <div class="timeline-heading">
-                <h4>March 2011</h4>
-                <h4 class="subheading">An Agency is Born</h4>
+                <h4><h4 class="subheading">{{ item.titulo }}</h4></h4>
+                <h4 class="subheading">{{ item.fecha }} 2018</h4>
               </div>
               <div class="timeline-body">
-                <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+                <p class="text-muted">{{ item.descripcion }}</p>
               </div>
             </div>
           </li>
+          {% endfor %}
           <li class="timeline-inverted">
             <div class="timeline-image">
               <h4>Se parte
                 <br>de nuestra
-                <br>Historia!</h4>
+                <br>Historia Asiste!</h4>
             </div>
           </li>
         </ul>
