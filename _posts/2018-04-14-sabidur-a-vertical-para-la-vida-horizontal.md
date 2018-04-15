@@ -19,6 +19,9 @@ para alcanzar el éxito en la vida, pero frecuentemente no saben cómo manejar l
 conocimiento no es suficiente para enfrentar los problemas de la vida. Necesitamos sabiduría, esa
 habilidad imprescindible para manejar bien la vida_
 
+**La lección de hoy se titula, Sabiduría Vertical para la Vida Horizontal. ¿Por qué te parece que la
+titulé así? Porque conocer la voluntad de Dioses esencial para vivir mejor entre los seres humanos.**
+
 Es importante comenzar por definir que es un proverbio; Un proverbio es una oración corta que comunica una verdad moral en una forma concisa y aguda. También podemos compartir esta otra definición: "Los Proverbios son frases cortas producto de una larga experiencia". También es "una verdad que se presenta en una forma fácil de recordar; una filosofía basada en la experiencia y una regla para la conducta"
 
 **¿Por qué estudiar los Proverbios?**
@@ -34,5 +37,14 @@ Existen 4 maneras de tratar con los problemas:
 - Podemos permitirles que nos desvíen de nuestras metas;  
 - Podemos verlos como insuperables y volvernos atrás;  
 - Podemos enfrentarlos y superarlos satisfactoriamente;  
+
+![problemas.png]({{site.baseurl}}/intermedios/img/clases/problemas.png)
+
+Básicamente los primeros versos del capítulo 1 nos da una introdución del libro haciendo referencia a:
+
+1.El nombre y autor del libro. 
+2.El proposito del libro(Proverbios 1:2–6)
+3.Meta del libro(Proverbios 1:7–8)
+4.La recompenza del libro(Proverbios 1:9)
 
 
