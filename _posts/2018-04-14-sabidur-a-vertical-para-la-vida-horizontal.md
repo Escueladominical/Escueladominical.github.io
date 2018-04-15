@@ -7,8 +7,6 @@ published: true
 title: Sabiduría Vertical para la Vida Horizontal
 verso-biblico: 'Proverbios 1:1–9'
 ---
-## Introducción
-
 _Desde 1955 el conocimiento se ha duplicado cada 5 años; las bibliotecas se quejan por el peso de
 los libros nuevos... De hecho, nuestra generación posee más datos acerca del universo y la
 personalidad humana que todas las generaciones anteriores juntas. Los graduados de las
