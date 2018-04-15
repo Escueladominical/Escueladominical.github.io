@@ -7,4 +7,18 @@ published: true
 title: Sabiduría Vertical para la Vida Horizontal
 verso-biblico: 'Proverbios 1:1–9'
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+> Desde 1955 el conocimiento se ha duplicado cada 5 años; las bibliotecas se quejan por el peso de
+los libros nuevos... De hecho, nuestra generación posee más datos acerca del universo y la
+personalidad humana que todas las generaciones anteriores juntas. Los graduados de las
+universidades de hoy en día han recibido más información acerca del mundo de la que tenían Platón,
+Aristóteles, Espinoza o Benjamín Franklin. Si observamos meramente los hechos, ni Moisés ni Pablo
+podrían aprobar el examen de ingreso a cualquier universidad. Pero con todo estos elevados
+estándares, con todo nuestro conocimiento... la sociedad está formada por personas que ha
+cosechado una extraordinaria cantidad de fracasos brillantes... Los hombres y las mujeres se educan
+para alcanzar el éxito en la vida, pero frecuentemente no saben cómo manejar la vida misma... El
+conocimiento no es suficiente para enfrentar los problemas de la vida. Necesitamos sabiduría, esa
+habilidad imprescindible para manejar bien la vida”
+
+
+
+
