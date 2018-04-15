@@ -22,7 +22,7 @@ prose:
     'gulpfile',
     '.gitignore'
   ]
-  siteurl: "https://escueladominical.github.io/",
+  siteurl: "https://escueladominical.github.io/"
   metadata:
     _posts:
       - name: layout
