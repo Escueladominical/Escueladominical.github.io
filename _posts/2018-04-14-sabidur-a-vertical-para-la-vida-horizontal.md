@@ -3,7 +3,7 @@ layout: post
 date: '2018-04-14 23:41 -0400'
 image-master: img/clases/clase1-master.jpeg
 image-detail: img/clases/clase1-detail.jpeg
-published: false
+published: true
 title: Sabiduría Vertical para la Vida Horizontal
 verso-biblico: 'Proverbios 1:1–9'
 ---
