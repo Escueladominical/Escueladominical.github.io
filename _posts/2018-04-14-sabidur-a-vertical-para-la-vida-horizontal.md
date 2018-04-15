@@ -60,6 +60,6 @@ _La sabiduría es un carácter que se desarrolla con la aplicación de la inteli
 1. Prudencia =  Sensatez, moderación, cautela, equilibrio.
 2. Justicia = Integridad, derechura.
 3. Juicio = Ecuanimidad, probidad, igualdad.
-4. Equidad = Imparcialidad equilibrio. legalidad.
+4. 1.Equidad = Imparcialidad equilibrio. legalidad.
 
 
