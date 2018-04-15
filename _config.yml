@@ -16,7 +16,7 @@ prose:
     'css',
     '.git',
     'vendor',
-    'packege-lock.json,
+    'packege-lock.json',
     'packege.json',
     'js',
     'gulpfile',
