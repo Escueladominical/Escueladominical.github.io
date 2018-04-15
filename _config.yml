@@ -1,1 +1,9 @@
 title: Intermedios
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      author: "Intermedios"
