@@ -62,3 +62,4 @@ _La sabiduría es un carácter que se desarrolla con la aplicación de la inteli
 3. Juicio = Ecuanimidad, probidad, igualdad.
 4. Equidad = Imparcialidad equilibrio. legalidad.
 
+
