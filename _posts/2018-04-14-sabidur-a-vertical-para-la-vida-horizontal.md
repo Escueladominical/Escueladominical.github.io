@@ -33,5 +33,5 @@ Existen 4 maneras de tratar con los problemas:
 
 -Podemos evitarlos;  
 -Podemos permitirles que nos desvíen de nuestras metas;  
--Podemos verlos como insuperables y volvernos atrás
+-Podemos verlos como insuperables y volvernos atrás;  
 -Podemos enfrentarlos y superarlos satisfactoriamente
