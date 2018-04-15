@@ -30,7 +30,8 @@ Es importante comenzar por definir que es un proverbio; Un proverbio es una orac
 3.  Proverbios en un libro que tiene como meta modelarnos como persona, preparandonos para enfrentar y solucionar problemas cotidianos.
 
 Existen 4 maneras de tratar con los problemas:
--Podemos evitarlos;
+
+-Podemos evitarlos;  
 -Podemos permitirles que nos desvíen de nuestras metas
 -Podemos verlos como insuperables y volvernos atrás
 -Podemos enfrentarlos y superarlos satisfactoriamente
