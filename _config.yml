@@ -7,3 +7,45 @@ defaults:
       type: "posts"
     values:
       author: "Intermedios"
+
+permalink: /intermedios/:title.html
+
+prose:
+  ignore: [
+    '_layouts',
+    'css',
+    '.git',
+    'vendor',
+    'packege-lock.json,
+    'packege.json',
+    'js',
+    'gulpfile',
+    '.gitignore'
+  ]
+  siteurl: "https://escueladominical.github.io/",
+  metadata:
+    _posts:
+      - name: layout
+        field:
+          element: hidden
+          value: post
+      - name: title
+        field:
+          element: text
+          label: Ingrese el título de su clase
+          type: text
+      - name: date
+        field:
+          element: text
+          label: Fecha de la Publicación
+          value: CURRENT_DATETIME
+      - name: image-master
+        field:
+          element: text
+          label: Ingrese una imagen para el detalle de su publicación
+          value: img/
+      - name: image-detail
+        field:
+          element: text
+          label: Ingrese una imagen para el detalle de su publicación
+          value: img/

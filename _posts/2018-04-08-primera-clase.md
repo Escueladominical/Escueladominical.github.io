@@ -1,6 +1,8 @@
 ---
+layout: posts
 title: "Sabiduría Vertical para la Vida Horizontal"
-image: img/portfolio/05-thumbnail.jpg
+image-master: img/portfolio/clase1-master.jpeg
+image-detail: img/portfolio/clase1-detail.jpeg
 verso-biblico: "Proverbios 1:1–9"
 ---
 

@@ -1,0 +1,14 @@
+{% include intermedios/index/head.html %}
+  <body id="page-top">
+    {% include intermedios/posts/banner.html %}
+      <div style="padding:20px">
+        {{ content }}
+      </div>
+    {% include intermedios/index/js.html %}
+    <script>
+    function goBack() {
+      console.log('Jonathan')
+        window.history.back();
+    }
+    </script>
+  </body>
