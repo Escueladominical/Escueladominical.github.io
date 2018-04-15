@@ -56,10 +56,25 @@ _La sabiduría es un carácter que se desarrolla con la aplicación de la inteli
 - Conocer razones prudentes: Discernir es entender, considerar, percibir. Es “leer entre líneas”, distinguir la verdad del error, lo correcto de lo incorrecto, lo bueno de lo malo. Capacidad para juzgar, evaluar. Discernimiento.
 
 **2. Enseñarnos a discernir los peligros del camino de la vida (V3)**  
-- Adquirir instrucción: EL libro de proverbios no enseña que podemos recibir la instruccion de 4 fuentes: 
-1. Prudencia =  Sensatez, moderación, cautela, equilibrio.
-2. Justicia = Integridad, derechura.
-3. Juicio = Ecuanimidad, probidad, igualdad.
-4. 1.Equidad = Imparcialidad equilibrio. legalidad.
+ - Adquirir instrucción: EL libro de proverbios no enseña que podemos recibir la instruccion de 4 fuentes: Prudencia, Justicia,juicio,Equidad.
 
+**3. Proveer discreción y propósito a la vida(V4)**
+1. ¿Quiénes son los simples y los jóvenes? 
+ - Los simples (ingenuos) son las personas inexpertas, sin experiencia. Hebreo: “Ser
+abierto, espacioso, amplio”. Es decir, los que son fácilmente influenciables.
+ - Los jóvenes, según la manera de pensar de Salomón, son los niños, los adolescentes y
+los solteros.
+2. ¿Qué necesitan adquirir los simples (ingenuos)?
+ - Sagacidad Perspicacia, prudencia, capacidad para manejar los asuntos prácticos, sentido común.
+3. ¿Qué necesitan adquirir los jóvenes?
+ - Inteligencia y cordura Deben saber cómo hacer las cosas y deben hacerlas bien.
+
+**4. Cultivar una mente aguda(V5-6)**
+1. Los simples y los jóvenes pueden llegar a ser sabios y entendidos (v. 5).
+2. Los sabios y los entendidos pueden seguir profundizando su sabiduría (v. 6).
+E.
+a. Van a entender los proverbios (éstos y otros).
+b. Van a discernir las declaraciones (NVI: “parábolas”; TLA: “ejemplo”).
+c. Van a resolver los dichos profundos de los sabios (NVI: “los dichos de los sabios y sus
+enigmas”).
 
