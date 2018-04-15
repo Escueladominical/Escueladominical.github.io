@@ -16,11 +16,12 @@ prose:
     'css',
     '.git',
     'vendor',
-    'packege-lock.json',
-    'packege.json',
+    'package-lock.json',
+    'package.json',
     'js',
-    'gulpfile',
-    '.gitignore'
+    'gulpfile.js',
+    '.gitignore',
+    '_site'
   ]
   siteurl: "https://escueladominical.github.io/"
   metadata:
