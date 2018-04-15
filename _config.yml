@@ -53,4 +53,10 @@ prose:
       - name: verso-biblico
         field:
           element: text
-          label: Ingrese el versículo central de su clase 
+          label: Ingrese el versículo central de su clase
+      - name: published
+        field:
+          element: checkbox
+          label: Publicar
+          help: Puede elegir entre publicar o guardar su trabajo para continuar luego.
+          value: false
