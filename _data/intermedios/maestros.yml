@@ -1,0 +1,14 @@
+maestros:
+  - imagen: ./img/team/jonathan.jpg
+    nombre: Jonathan Duarte
+    profesion: Maestro
+  - imagen: ./img/team/alexamar.jpg
+    nombre: Alexamar Hurtado
+    profesion: Maestro
+  - imagen: ./img/team/leivis.jpg
+    nombre: Leivis de Lameda
+    profesion: Maestro
+    rrss:
+  - imagen: ./img/team/elianny.jpg
+    nombre: Elianny Arriechi
+    profesion: Maestro
