@@ -50,3 +50,7 @@ prose:
           element: text
           label: Ingrese una imagen para el detalle de su publicación
           value: img/
+      - name: verso-biblico
+        field:
+          element: text
+          label: Ingrese el versículo central de su clase 
