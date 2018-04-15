@@ -40,11 +40,11 @@ Existen 4 maneras de tratar con los problemas:
 
 ![problemas.png]({{site.baseurl}}/intermedios/img/clases/problemas.png)
 
-Básicamente los primeros versos del capítulo 1 nos da una introdución del libro haciendo referencia a:
+Básicamente los primeros versos del capítulo 1 nos da una introdución del libro haciendo referencia a: 
 
 1.El nombre y autor del libro. 
 2.El proposito del libro(Proverbios 1:2–6) 
-3.Meta del libro(Proverbios 1:7–8)  
+3.Meta del libro(Proverbios 1:7–8)   
 4.La recompenza del libro(Proverbios 1:9)
 
 
